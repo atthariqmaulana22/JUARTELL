@@ -1,6 +1,7 @@
 # G-Talk
 
 Nama: Ghefira La-Agnasrasya Gracianette
+
 NIM : 6704220004 
 
 
@@ -19,6 +20,6 @@ let APP_ID = "YOU-APP-ID"
 ```
 
 
-<img src="./images/preview.png"> 
-<img src="./images/stream-2.png"> 
-<img src="./images/stream-thumbnail.png"> 
+<img src="public/images/preview.png"> 
+<img src="public/images/stream-2.png"> 
+<img src="public/images/stream-thumbnail.png"> 
